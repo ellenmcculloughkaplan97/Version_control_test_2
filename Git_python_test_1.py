@@ -13,3 +13,9 @@ def git_test_func():
     return "hi GIt"
 
 
+
+"Now I am making changes for the second time"
+
+def new_func(n):
+    return "I'm so happy to use GIT"
+
